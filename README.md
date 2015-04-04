@@ -1,3 +1,24 @@
+## graft (indigo) - 0.2.2-0
+
+The packages in the `graft` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo graft` on `Sat, 04 Apr 2015 08:18:54 -0000`
+
+The `graft` package was released.
+
+Version of package(s) in repository `graft`:
+- upstream repository: https://github.com/ros-perception/graft.git
+- release repository: https://github.com/ros-gbp/graft-release.git
+- rosdistro version: `0.2.1-0`
+- old version: `0.2.1-0`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## graft (indigo) - 0.2.1-0
 
 The packages in the `graft` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo graft` on `Sat, 14 Mar 2015 01:57:37 -0000`
