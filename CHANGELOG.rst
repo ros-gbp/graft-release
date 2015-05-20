@@ -2,6 +2,11 @@
 Changelog for package graft
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2015-05-20)
+------------------
+* add no_delay parameter
+* Contributors: Chad Rockey, Michael Ferguson
+
 0.2.2 (2015-04-03)
 ------------------
 * fix compilation on 32-bit systems
