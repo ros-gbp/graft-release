@@ -1,0 +1,34 @@
+ros-melodic-graft (0.2.3-1stretch) stretch; urgency=high
+
+  * add no_delay parameter
+  * Contributors: Chad Rockey, Michael Ferguson
+
+ -- Chad Rockey <chadrockey@gmail.com>  Wed, 20 May 2015 07:00:00 -0000
+
+ros-melodic-graft (0.2.2-1stretch) stretch; urgency=high
+
+  * fix compilation on 32-bit systems
+  * update maintainer email
+  * Contributors: Michael Ferguson
+
+ -- Chad Rockey <chadrockey@gmail.com>  Fri, 03 Apr 2015 07:00:00 -0000
+
+ros-melodic-graft (0.2.1-1stretch) stretch; urgency=high
+
+  * update package.xml to have an actual description
+  * Inintialize covariances in topics
+    Publish state relative to node name
+  * graft sensors: style cleanup
+  * parameter manager: factor out rosparam array loading, style cleanup
+  * Contributors: Michael Ferguson, Austin Hendrix
+
+ -- Chad Rockey <chadrockey@gmail.com>  Fri, 13 Mar 2015 07:00:00 -0000
+
+ros-melodic-graft (0.2.0-1stretch) stretch; urgency=high
+
+  * Initial release
+  * Contributors: Chad Rockey, Michael Ferguson, Austin Hendrix
+
+ -- Chad Rockey <chadrockey@gmail.com>  Wed, 11 Jun 2014 07:00:00 -0000
+
+
