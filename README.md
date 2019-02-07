@@ -1,3 +1,26 @@
+## graft (melodic) - 0.2.3-1
+
+The packages in the `graft` repository were released into the `melodic` distro by running `/usr/bin/bloom-release graft --rosdistro melodic` on `Thu, 07 Feb 2019 07:46:06 -0000`
+
+The `graft` package was released.
+
+Version of package(s) in repository `graft`:
+
+- upstream repository: https://github.com/ros-perception/graft.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.3-0`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## graft (melodic) - 0.2.3-0
 
 The packages in the `graft` repository were released into the `melodic` distro by running `/usr/bin/bloom-release graft --rosdistro melodic` on `Thu, 07 Feb 2019 07:37:03 -0000`
