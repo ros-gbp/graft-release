@@ -1,3 +1,26 @@
+## graft (noetic) - 0.2.3-1
+
+The packages in the `graft` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic graft` on `Thu, 14 Jan 2021 15:49:50 -0000`
+
+The `graft` package was released.
+
+Version of package(s) in repository `graft`:
+
+- upstream repository: https://github.com/ros-perception/graft.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.40`
+
+
 ## graft (melodic) - 0.2.3-2
 
 The packages in the `graft` repository were released into the `melodic` distro by running `/usr/bin/bloom-release graft --rosdistro melodic` on `Thu, 07 Feb 2019 07:48:05 -0000`
