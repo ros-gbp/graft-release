@@ -1,0 +1,13 @@
+Source: ros-noetic-graft
+Section: misc
+Priority: optional
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-noetic-catkin, ros-noetic-cmake-modules, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-nav-msgs, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf
+Homepage: http://ros.org/wiki/graft
+Standards-Version: 3.9.2
+
+Package: ros-noetic-graft
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-dynamic-reconfigure, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf
+Description: Graft is not yet finished.
+ It's intended to be a full replacement to robot_pose_ekf, including native absolute references, and arbitrary topic configuration. If you try to use Graft now, please note that not all parameters are configured and you will not always see a change in behavior by modifying the parameters.
